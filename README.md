@@ -1,4 +1,13 @@
 # DSP_ML_Model: Predict Using FASTAPI Request
+## Hosted on 
+```
+https://dps-ml-model.onrender.com/
+```
+predict go to predict sunroute
+
+```
+https://dps-ml-model.onrender.com/predict
+```
 
 ## Setup Instructions
 
