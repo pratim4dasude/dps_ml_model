@@ -3,7 +3,7 @@
 ```
 https://dps-ml-model.onrender.com/
 ```
-predict go to predict sunroute
+To predict go to predict subroute
 
 ```
 https://dps-ml-model.onrender.com/predict
